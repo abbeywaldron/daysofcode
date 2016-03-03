@@ -37,7 +37,9 @@ a {
 
 a:hover,
 a:focus {
-    color: #eb3812;
+   /* color: #eb3812;*/
+   color: #3c6a60;
+
 }
 
 h1,
