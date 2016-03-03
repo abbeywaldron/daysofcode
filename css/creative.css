@@ -167,12 +167,14 @@ color: #5d8598!important;
 
     .navbar-default.affix .navbar-header .navbar-brand {
         font-size: 14px;
-        color: #f05f40;
+        /*color: #f05f40;*/
+	color: #5d8598;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
     .navbar-default.affix .navbar-header .navbar-brand:focus {
-        color: #eb3812;
+        /*color: #eb3812;*/
+	color: #5d8598;
     }
 
     .navbar-default.affix .nav > li>a,
