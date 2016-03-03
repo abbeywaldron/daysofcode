@@ -20,7 +20,8 @@ body {
 
 hr {
     max-width: 50px;
-    border-color: #f05f40;
+    /*border-color: #f05f40;*/
+    border-color: #444444;
     border-width: 3px;
 }
 
@@ -29,7 +30,8 @@ hr.light {
 }
 
 a {
-    color: #f05f40;
+   /* color: #f05f40; */
+   color: #5d8598;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
