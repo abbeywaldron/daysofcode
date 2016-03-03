@@ -59,7 +59,8 @@ p {
 
 .bg-primary {
    # background-color: #f05f40;
- background-color: #303136;	
+# background-color: #303136;	
+  background-color: #5d8598;
 }
 
 .bg-dark {
@@ -393,9 +394,9 @@ fieldset[disabled] .btn-default.active {
 
 .btn-primary {
     /*border-color: #f05f40;*/
-    border-color: #5d8598;
+    border-color: #91b8cc;
     color: #fff;
-    background-color: #5d8598;
+    background-color: #91b8cc;
     /*background-color: #f05f40;*/
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
