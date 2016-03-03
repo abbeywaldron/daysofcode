@@ -20,7 +20,8 @@ body {
 
 hr {
     max-width: 50px;
-    border-color: #f05f40;
+    /*border-color: #f05f40;*/
+    border-color: #333333;
     border-width: 3px;
 }
 
@@ -29,7 +30,8 @@ hr.light {
 }
 
 a {
-    color: #f05f40;
+   /* color: #f05f40; */
+   color: #5d8598;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -38,7 +40,7 @@ a {
 a:hover,
 a:focus {
    /* color: #eb3812;*/
-   color: #3c6a60;
+   color: #5d8598;
 
 }
 
@@ -394,9 +396,9 @@ fieldset[disabled] .btn-default.active {
 
 .btn-primary {
     /*border-color: #f05f40;*/
-    border-color: #444444;
+    border-color: #333333;
     color: #fff;
-    background-color: #444444;
+    background-color: #333333;
     /*background-color: #f05f40;*/
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
@@ -409,9 +411,11 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-    border-color: #ed431f;
+    /*border-color: #ed431f;*/
+    border-color: #5d8598;
     color: #fff;
-    background-color: #ee4b28;
+    background-color: #5d8598; 
+/*    background-color: #ee4b28;*/
 }
 
 .btn-primary:active,
