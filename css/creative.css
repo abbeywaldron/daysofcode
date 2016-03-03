@@ -105,7 +105,8 @@ aside {
 
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-    color: #eb3812;
+    /*color: #eb3812;*/
+    color: #5d8598;
 }
 
 .navbar-default .nav > li>a,
@@ -124,7 +125,8 @@ aside {
 
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: #f05f40!important;
+    /*color: #f05f40!important;*/
+color: #5d8598!important;
     background-color: transparent;
 }
 

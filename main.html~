@@ -99,14 +99,14 @@
     </section>
 
 
-    <aside class="bg-dark">
+    <!--aside class="bg-dark">
         <div class="container text-center">
             <div class="call-to-action">
                 <h2>build something great.</h2>
                 <a href="http://goo.gl/forms/pCOCtrx2YS" class="btn btn-default btn-xl" target="top">Sign Up Now!</a>
             </div>
         </div>
-    </aside>
+    </aside-->
 
     <section id="contact">
         <div class="container">
