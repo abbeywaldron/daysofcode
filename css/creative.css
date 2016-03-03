@@ -392,9 +392,11 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: #f05f40;
+    /*border-color: #f05f40;*/
+    border-color: #5d8598;
     color: #fff;
-    background-color: #f05f40;
+    background-color: #5d8598;
+    /*background-color: #f05f40;*/
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
