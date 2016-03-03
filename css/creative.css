@@ -184,7 +184,8 @@ color: #5d8598!important;
 
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
-        color: #f05f40;
+        /*color: #f05f40;*/
+	color: #5d8598;
     }
 }
 
