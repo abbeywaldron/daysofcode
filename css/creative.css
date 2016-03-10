@@ -128,7 +128,7 @@ aside {
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
     /*color: #f05f40!important;*/
-color: #5d8598!important;
+color: #5d8598; /*!important;*/
     background-color: transparent;
 }
 
@@ -237,7 +237,7 @@ header {
 }
 
 .action-button {
-    height: 200px;
+    margin-top: 200px;
 }
 
 .tape {
