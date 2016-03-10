@@ -213,6 +213,10 @@ header {
     -o-background-size: cover;
 }
 
+.who p {
+     background-color: black;
+} 
+
 header .header-content {
     position: relative;
     width: 100%;
