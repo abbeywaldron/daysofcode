@@ -89,7 +89,8 @@ aside {
 .navbar-default {
     border-color: rgba(34,34,34,.05);
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
-    background-color: #fff;
+   /* background-color: #fff;*/
+    background-color: transparent;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -224,6 +225,7 @@ header {
 }
 
 .contact {
+     height: 200px;
      width: 100%;
      background-image: url(../img/station.jpg);
      background-position: center;	
