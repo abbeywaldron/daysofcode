@@ -242,6 +242,13 @@ header {
       background-color: black;
 }
 
+.inverted-tape {
+     padding-left: 10px;
+      padding-right: 10px;
+      color: black;
+      background-color: white;
+}
+
 .who p {
      color: white;
      background-color: black;
