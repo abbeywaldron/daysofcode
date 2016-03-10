@@ -215,13 +215,25 @@ header {
 
 .about {
     width: 100%;
-     background-image: url(../img/station.jpg);
+     background-image: url(../img/ship.jpg);
      background-position: center;	
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
 }
+
+.contact {
+     width: 100%;
+     background-image: url(../img/station.jpg);
+     background-position: center;	
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+}
+
 
 .tape {
       padding-left: 10px;
