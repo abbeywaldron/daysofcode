@@ -203,6 +203,11 @@ header {
     -o-background-size: cover;
 }
 
+.who {
+     background-image: url(../img/who_background.jpg);
+
+}
+
 header .header-content {
     position: relative;
     width: 100%;
