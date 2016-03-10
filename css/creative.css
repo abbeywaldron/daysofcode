@@ -213,7 +213,7 @@ header {
     -o-background-size: cover;
 }
 
-.who p h3 h2{
+.who p, .who h3, .who h2{
      color: white;
      background-color: black;
 } 
