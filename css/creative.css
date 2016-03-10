@@ -170,7 +170,8 @@ color: #5d8598!important;
     .navbar-default.affix .navbar-header .navbar-brand {
         font-size: 14px;
         /*color: #f05f40;*/
-	color: #5d8598;
+	/*color: #5d8598;*/
+	color: white;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
@@ -238,7 +239,7 @@ header {
 }
 
 .action-button {
-    margin-top: 100px;
+    margin-top: 70px;
     margin-bottom: 50px;
 }
 
