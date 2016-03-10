@@ -213,7 +213,19 @@ header {
     -o-background-size: cover;
 }
 
+.about {
+    width: 100%;
+     background-image: url(../img/station.jpg);
+     background-position: center;	
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 .tape {
+      padding-left: 10px;
+      padding-right: 10px;
       color: white;
       background-color: black;
 }
