@@ -101,8 +101,8 @@ aside {
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-weight: 700;
     /*color: #f05f40;*/
-    color: #5d8598;
-    /*color: white;*/
+    /*color: #5d8598;*/
+    color: white;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
