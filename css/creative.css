@@ -218,6 +218,9 @@ header {
     -o-background-size: cover;
 }
 
+.who {
+     filter: none;
+}
 
 .about {
     width: 100%;
