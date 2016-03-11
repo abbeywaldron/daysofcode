@@ -207,7 +207,7 @@ header {
     -o-background-size: cover;
 }
 
-.who {
+.who-image {
      width: 100%;
      background-image: url(../img/who_background.jpg);
      filter: opacity(0.1);   
