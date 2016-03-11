@@ -219,7 +219,7 @@ header {
 }
 
 .who {
-     filter: none;
+     filter: none !important;
 }
 
 .about {
