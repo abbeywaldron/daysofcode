@@ -209,13 +209,16 @@ header {
 
 .who {
      width: 100%;
-     background-image: url(../img/who_background.jpg);
-     filter: opacity(0.1);   
+     background-image: url(../img/who_background.jpg);   
   background-position: center;	
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+.who img {
+     filter: opacity(0.4);
 }
 
 .about {
