@@ -253,7 +253,7 @@ header {
       padding-left: 10px;
       padding-right: 10px;
       color: black;
-      background-color: #aaa;
+      background-color: #ccc;
      /* background-color: #222;*/
 }
 
@@ -266,7 +266,7 @@ header {
 
 .who p {
      color: black;
-     background-color: #aaa;
+     background-color: #ccc;
 } 
 
 header .header-content {
