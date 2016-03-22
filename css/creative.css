@@ -73,7 +73,7 @@ p {
 .text-faded {
    /* color: rgba(255,255,255,.7); */
    color: black;
-   background-color: white;
+   /*background-color: white;*/
 }
 
 section {
@@ -253,6 +253,7 @@ header {
       padding-left: 10px;
       padding-right: 10px;
       color: black;
+      background-color: #eee;
      /* background-color: #222;*/
 }
 
@@ -265,7 +266,7 @@ header {
 
 .who p {
      color: black;
-     background-color: white;
+     background-color: #eee;
 } 
 
 header .header-content {
