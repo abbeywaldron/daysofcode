@@ -76,6 +76,13 @@ p {
    /*background-color: white;*/
 }
 
+.text-faded a{
+	    color: rgba(255,255,255,.6);
+	    
+}
+
+
+
 section {
     padding: 100px 0;
 }
