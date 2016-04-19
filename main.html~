@@ -11,6 +11,11 @@
 
     <title>Days of Code</title>
 
+
+
+
+
+
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
 
@@ -31,6 +36,16 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+
+    <!-- google analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      
+      ga('create', 'UA-52344756-3', 'auto');
+      ga('send', 'pageview');
+      
+    </script>
 
 </head>
 
@@ -82,7 +97,7 @@
             <div class="header-content-inner">
                 <h1>Days of Code</h1>
                 <hr>
-		<p>take the freedom to build something great.</p>
+		<p>build something great.</p>
                 <a href="http://goo.gl/forms/pCOCtrx2YS" class="btn btn-primary btn-xl page-scroll" target="top">Sign Up</a>
             </div>
         </div>
@@ -96,6 +111,7 @@
                     <hr class="light">
                     
 		    <h3>What</h3>
+		    <p class="text-faded">Have you ever thought about building your own website or starting your own company? Are you considering a change in career and do you think coding could be something for you? Then Days of Code is the place to be!</p>
 		    <p class="text-faded">10 Days of Code 2016 is a free coding event held in Rotterdam city center. During the event we will provide you with a place to set up (comfortable indoor) camp, a mentor, free food, coffee and internet - all the things you need to build something great!</p>
 
 		    <h3>Why</h3>
