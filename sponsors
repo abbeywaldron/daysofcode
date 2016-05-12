@@ -48,6 +48,32 @@
   </head>
 
   <body>
-    <h1>Sponsors</h1>
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+      <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand page-scroll" href="http://www.daysofcode.com">Days of Code</a>
+        </div>
+    </nav>
+
+    <div class="bg-primary">
+      <div class="container">
+	<div class="row">
+	  <div class="col-lg-8 col-lg-offset-2 text-center">
+	    <h1>Sponsors</h1>
+	    <img src="img/sponsors/VanDerMandeleStichting.jpg" alt="van der Mandele" width="90%" />
+	  </div>
+	</div>
+      </div>
+    </div>
+
+
+
   </body>
 </html>
