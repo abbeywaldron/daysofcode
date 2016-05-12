@@ -62,16 +62,31 @@
         </div>
     </nav>
 
-    <div class="bg-primary">
-      <div class="container">
-	<div class="row">
-	  <div class="col-lg-8 col-lg-offset-2 text-center">
-	    <h1>Sponsors</h1>
-	    <img src="img/sponsors/VanDerMandeleStichting.jpg" alt="van der Mandele" width="90%" />
-	  </div>
+    
+    <div class="contact">    
+      <div class="row">
+	<div class="col-lg-8 col-lg-offset-2 text-center">
+	  <h1>Sponsors</h1>
+	  <img src="img/sponsors/VanDerMandeleStichting.jpg" alt="van der Mandele" width="90%" />
 	</div>
       </div>
     </div>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/jquery.fittext.js"></script>
+    <script src="js/wow.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/creative.js"></script>
+
+    
 
 
 
