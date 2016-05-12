@@ -63,14 +63,18 @@
     </nav>
 
     
-    <div class="header-content">
-      <div class="row">
-	<div class="col-lg-8 col-lg-offset-2 text-center">
-	  <h1>Sponsors</h1>
-	  <img src="img/sponsors/VanDerMandeleStichting.jpg" alt="van der Mandele" width="40%" />
+    <header>
+      <div class="header-content">
+	<div class="header-content-inner">
+	  <div class="row">
+	    <div class="col-lg-8 col-lg-offset-2 text-center">
+	      <h1>Sponsors</h1>
+	      <img src="img/sponsors/VanDerMandeleStichting.jpg" alt="van der Mandele" width="40%" />
+	    </div>
+	  </div>
 	</div>
       </div>
-    </div>
+    </header>
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
