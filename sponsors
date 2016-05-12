@@ -68,13 +68,13 @@
 	<div class="header-content-inner">
 	  <div class="row">
 	    <div class="col-lg-8 col-lg-offset-2 text-center">
-	      <h3>Sponsors</h3>
-	      <p>Thank you to our sponsors who make it possible for us to bring you this amazing event for free:</p>
+	      <h2>Sponsors</h2>
+	      <p>Our amazing sponsors make it possible for us to bring you this event for free:</p>
 	      <div class="row">
 		<div class="col-sm-4">
 		</div>
 		<div class="col-sm-4">
-		  <img src="img/sponsors/VanDerMandeleStichting.jpg" alt="van der Mandele" width="40%" />
+		  <img src="img/sponsors/VanDerMandeleStichting.jpg" alt="van der Mandele" width="90%" />
 		</div>
 		<div class="col-sm-4">
 		</div>
