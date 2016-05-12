@@ -18,6 +18,16 @@ body {
     color: red;
 }
 
+
+.sponsor {
+	 padding-top: 100px;
+}
+
+.sponsor a {
+	 color: white;
+	 text-decoration:none;
+}
+
 hr {
     max-width: 50px;
     /*border-color: #f05f40;*/
