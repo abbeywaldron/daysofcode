@@ -95,7 +95,7 @@
     <header>
       <div class="header-content">
 	<div class="header-content-inner">
-	  <div class="row">
+	  <div class="row top-pad">
 	    <div class="col-lg-8 col-lg-offset-2 text-center">
 	      <h2 class="top-pad">How can I help?</h2>
 	      <p>We are also looking for mentors who are willing to share their knowledge and experience at our events.  Normally we have two types of mentors:</p>
