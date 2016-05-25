@@ -95,10 +95,9 @@
     <header>
       <div class="header-content">
 	<div class="header-content-inner">
-	  <div class="row top-pad">
+	  <div class="row">
 	    <div class="col-lg-8 col-lg-offset-2 text-center">
-	      <h2 class="top-pad">How can I help?</h2>
-	      <p>We are also looking for mentors who are willing to share their knowledge and experience at our events.  Normally we have two types of mentors:</p>
+	      <h2>How can I help?</h2>
 	      <p>A <b>technology expert</b> is someone who is knowledgeable on a specific topic (for example design or web application development). These people usually contribute by giving a lecture and then participants can book a time-slot with them for specific technical questions. An industry expert would normally volunteer one day.</p>
 	      <p>A <b>mentor</b> is someone who is familiar with the process of building a web application and would like to guide participants through this process. Mentors are good at encouraging and inspiring participants and would normally volunteer one hour every day.</p>
 	      <p class="sponsor">Want to know more about becomming a mentor?  Please get in touch <a href="mailto:mentor@daysofcode.nl">mentor@daysofcode.nl</a></p>
