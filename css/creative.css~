@@ -18,6 +18,10 @@ body {
     color: red;
 }
 
+.small-pad {
+	   margin-top: 20px;
+
+}
 
 .sponsor {
 	 padding-top: 100px;
