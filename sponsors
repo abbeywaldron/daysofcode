@@ -104,7 +104,23 @@
 	      <p>Our amazing sponsors enable this event to be free.</p>
 	      <div class="row">
 		<div class="col-sm-6 col-sm-offset-3">
-		  <a href="http://vandermandele.org" target="top"><img src="img/sponsors/VanDerMandeleStichting.jpg" alt="van der Mandele" width="90%" border="0"></a>
+		  <div class="row">
+		    <div class="col-xs-12">
+		      <h2>Premium Sponsors</h2>
+		      <a href="http://vandermandele.org" target="top"><img src="img/sponsors/VanDerMandeleStichting.jpg" alt="van der Mandele" width="90%" border="0"></a>
+		    </div>
+		  </div>
+		  <div class="row">
+		    <div class="col-xs-12">
+		      <h2>Gold Sponsors</h2>
+		    </div>
+		  </div>
+
+		  <div class="row">
+		    <div class="col-xs-12">
+		      <h2>Silver Sponsors</h2>
+		    </div>
+		  </div>
 		</div>
 	      </div>
 	      <p class="sponsor">Want to know more about becomming a sponsor?  Please get in touch <a href="mailto:sponsor@daysofcode.nl">sponsor@daysofcode.nl</a></p>
