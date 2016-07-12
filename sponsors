@@ -101,7 +101,7 @@
 	  <div class="row">
 	    <div class="col-lg-8 col-lg-offset-2 text-center">
 	      <h2>Sponsors</h2>
-	      <p>Our amazing sponsors enable this event to be free.  Want to know more about becomming a sponsor?  Please get in touch <a href="mailto:sponsor@daysofcode.nl">sponsor@daysofcode.nl</a></p>
+	      <p class="sponsor">Our amazing sponsors enable this event to be free.  Want to know more about becomming a sponsor?  Please get in touch <a href="mailto:sponsor@daysofcode.nl">sponsor@daysofcode.nl</a></p>
 	      <div class="row">
 		<div class="col-sm-6 col-sm-offset-3">
 		  <div class="row">
