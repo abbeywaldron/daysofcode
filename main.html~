@@ -92,7 +92,7 @@
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
 		    <li>
-		      <a class="page-scroll red" href="http://goo.gl/forms/pCOCtrx2YS" target="top">Sign Up!</a>
+		      <a class="page-scroll red" href="http://goo.gl/forms/BzbbscHqUCDmwymF3" target="top">Sign Up!</a>
 		    </li>
                 </ul>
             </div>
@@ -107,7 +107,7 @@
                 <h1>Days of Code</h1>
                 <hr>
 		<p>coding is freedom.</p>
-                <a href="http://goo.gl/forms/pCOCtrx2YS" class="btn btn-primary btn-xl page-scroll" target="top">Sign Up</a>
+                <a href="http://goo.gl/forms/BzbbscHqUCDmwymF3" class="btn btn-primary btn-xl page-scroll" target="top">Sign Up</a>
             </div>
         </div>
     </header>
@@ -134,7 +134,7 @@
 
 
                     
-		    <a href="http://goo.gl/forms/pCOCtrx2YS" class="btn btn-default btn-xl" target="top">Sign Up!</a>
+		    <a href="http://goo.gl/forms/BzbbscHqUCDmwymF3" class="btn btn-default btn-xl" target="top">Sign Up!</a>
                 </div>
             </div>
         </div>
@@ -198,7 +198,7 @@
     <aside class="bg-dark contact">
         <div class="container text-center">
             <div class="call-to-action">
-                <a href="http://goo.gl/forms/pCOCtrx2YS" class="btn btn-default btn-xl action-button" target="top">sign up now</a>
+                <a href="http://goo.gl/forms/BzbbscHqUCDmwymF3" class="btn btn-default btn-xl action-button" target="top">sign up now</a>
             </div>
         </div>
     </aside>
@@ -234,5 +234,9 @@
     <script src="js/creative.js"></script>
 
 </body>
-
+<footer>
+  <div class="container">
+   <p class ="text-center"> &copy; Days of Code, 2016 | Email: <a href="mailto:info@daysofcode.nl">info@daysofcode.nl</a> | Follow Days of Code: <a href="https://twitter.com/daysofcode">Twitter</a> | <a href="https://facebook.com/daysofcode">Facebook</a> | <a href="https://linkedin.com/company/ days-of-code">LinkedIn</a></p>
+  </div>
+</footer>
 </html>
