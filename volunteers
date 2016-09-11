@@ -2,7 +2,7 @@
 <html lang="en"
       xmlns="http://www.w3.org/1999/xhtml"
       xmlns:fb="http://ogp.me/ns/fb#">
-  
+
   <head>
 
     <meta charset="utf-8">
@@ -11,7 +11,7 @@
     <meta name="description" content="coding is freedom.">
     <meta name="author" content="">
     <meta property="og:image" content="http://www.daysofcode.nl/img/doc_crop_4.png">
-    
+
     <title>Days of Code</title>
 
 
@@ -26,13 +26,13 @@
 
     <!-- Plugin CSS -->
     <link rel="stylesheet" href="css/animate.min.css" type="text/css">
-    
+
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css/creative.css" type="text/css">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>                                                           
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>          <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>                                                                    
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>          <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
 
@@ -67,23 +67,21 @@
 	<!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav navbar-right">
-            <li>
-              <a class="page-scroll" href="http://www.daysofcode.nl/#about">About</a>
+              <li>
+                  <a class="page-scroll" href="#about">About</a>
+              </li>
+                <li>
+                  <a class="page-scroll" href="http://www.daysofcode.nl/sponsors">Sponsors</a>
+              </li>
+                <li>
+                  <a class="page-scroll" href="http://www.daysofcode.nl/volunteers">Volunteers</a>
+              </li>
+              <li>
+                <a class="page-scroll" href="http://www.daysofcode.nl/materials">Materials</a>
             </li>
+
             <li>
-              <a class="page-scroll" href="http://www.daysofcode.nl/#who">Who We Are</a>
-            </li>
-            <li>
-              <a class="page-scroll" href="http://www.daysofcode.nl/sponsors">Sponsors</a>
-            </li>
-            <li>
-              <a class="page-scroll" href="http://www.daysofcode.nl/mentoring">Mentors</a>
-            </li>
-            <li>
-              <a class="page-scroll" href="http://www.daysofcode.nl/#contact">Contact</a>
-            </li>
-            <li>
-              <a class="page-scroll red" href="http://goo.gl/forms/BzbbscHqUCDmwymF3" target="top">Sign Up!</a>
+              <a class="page-scroll red" href="http://goo.gl/forms/BzbbscHqUCDmwymF3" target="top">Apply now!</a>
             </li>
           </ul>
         </div>
@@ -94,17 +92,18 @@
 
     </nav>
 
-    
+
     <header>
       <div class="header-content">
 	<div class="header-content-inner">
 	  <div class="row">
 	    <div class="col-lg-8 col-lg-offset-2 text-center">
 	      <h2 class="top-pad">How can I help?</h2>
-	      <p>A <b>technology expert</b> is someone who is knowledgeable on a specific topic (for example design or web application development). These people usually contribute by giving a lecture and then participants can book a time-slot with them for specific technical questions. An industry expert would normally volunteer one day.</p>
+        <p>We are looking for volunteers to be either mentors or technology experts</p>
+	      <p>A <b>technology expert</b> is someone who is knowledgeable on a specific topic (for example design or web application development). These people usually contribute by giving a lecture and then participants can book a time-slot with them for specific technical questions. A technology expert would normally volunteer one day.</p>
 	      <p>A <b>mentor</b> is someone who is familiar with the process of building a web application and would like to guide participants through this process. Mentors are good at encouraging and inspiring participants and would normally volunteer one hour every day.</p>
-	      <p class="sponsor">Want to know more about becomming a mentor?  Please get in touch <a href="mailto:mentor@daysofcode.nl">mentor@daysofcode.nl</a></p>
-	      
+	      <p class="sponsor">Want to know more about becomming a volunteer?  Please get in touch: <a href="mailto:mentor@daysofcode.nl">mentor@daysofcode.nl</a></p>
+
 
 
 	    </div>
@@ -127,7 +126,7 @@
     <!-- Custom Theme JavaScript -->
     <script src="js/creative.js"></script>
 
-    
+
 
 
 

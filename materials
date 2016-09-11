@@ -67,23 +67,21 @@
 	<!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav navbar-right">
-            <li>
-              <a class="page-scroll" href="http://www.daysofcode.nl/#about">About</a>
+              <li>
+                  <a class="page-scroll" href="#about">About</a>
+              </li>
+                <li>
+                  <a class="page-scroll" href="http://www.daysofcode.nl/sponsors">Sponsors</a>
+              </li>
+                <li>
+                  <a class="page-scroll" href="http://www.daysofcode.nl/volunteers">Volunteers</a>
+              </li>
+              <li>
+                <a class="page-scroll" href="http://www.daysofcode.nl/materials">Materials</a>
             </li>
+
             <li>
-              <a class="page-scroll" href="http://www.daysofcode.nl/#who">Who We Are</a>
-            </li>
-            <li>
-              <a class="page-scroll" href="http://www.daysofcode.nl/sponsors">Sponsors</a>
-            </li>
-            <li>
-              <a class="page-scroll" href="http://www.daysofcode.nl/mentoring">Mentors</a>
-            </li>
-            <li>
-              <a class="page-scroll" href="http://www.daysofcode.nl/#contact">Contact</a>
-            </li>
-            <li>
-              <a class="page-scroll red" href="http://goo.gl/forms/BzbbscHqUCDmwymF3" target="top">Sign Up!</a>
+              <a class="page-scroll red" href="http://goo.gl/forms/BzbbscHqUCDmwymF3" target="top">Apply now!</a>
             </li>
           </ul>
         </div>
@@ -100,32 +98,27 @@
 	<div class="header-content-inner">
 	  <div class="row">
 	    <div class="col-lg-8 col-lg-offset-2 text-center">
-	      <h2>Sponsors</h2>
-	      <p class="sponsor">Our amazing sponsors enable this event to be free.  Want to know more about becomming a sponsor?  Please get in touch <a href="mailto:sponsor@daysofcode.nl">sponsor@daysofcode.nl</a></p>
-	      <div class="row">
-		<div class="col-sm-6 col-sm-offset-3">
-		  <div class="row">
-		    <div class="col-xs-12">
-		      <h2>Premium Sponsors</h2>
-		      <a href="http://vandermandele.org" target="top"><img src="img/sponsors/VanDerMandeleStichting.jpg" alt="van der Mandele" width="90%" border="0"></a>
-		    </div>
-		  </div>
-		  <div class="row">
-		    <div class="col-xs-12">
-		      <h2>Gold Sponsors</h2>
-		    </div>
-		  </div>
+	      <h2 class="top-pad">Materials for beginners</h2>
+        <p>We offer two tracks for complete beginners: Making a website & Building a web application</p>
+	      <p>If you choose to <b>make your own website</b>, by the end of the ten
+          days you will have built your own website and launched it on the internet!
+          In order to do this, you will learn the following skills:</p>
+          <li>text editor</li>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>typing in the command line / terminal</li>
+          <li>bootstrap</li>
+          <li>Git</li>
+          <li>DNS</li>
+          <li>Javascript</li>
+          <p></p>
+	      <p>For those wanting to build an interactive <b>web application</b>, you
+          will need to learn everything in the list above, and also  </p>
+          <li>Ruby</li>
+          <li>Rails</li>
 
-		  <div class="row">
-		    <div class="col-xs-12">
-		      <h2>Silver Sponsors</h2>
-		      <a href="https://firmhouse.com/" target="top"><img src="img/sponsors/F0epp-EB.jpeg" alt="Firmhouse" width="35%" border="0"></a>
-		      <a href="https://gitlab.com/" target="top"><img src="img/sponsors/wm.svg" alt="Gitlab" width="40%" border="0"></a>
-		      <a href="http://www.kleinhandel.org/en/" target="top"><img src="img/sponsors/KH_logo_1_def.png" alt="Kleinhandel" width="40%" border="0"></a>
-		    </div>
-		  </div>
-		</div>
-	      </div>
+
+
 	    </div>
 	  </div>
 	</div>
