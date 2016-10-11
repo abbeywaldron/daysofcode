@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" 
+<html lang="en"
       xmlns="http://www.w3.org/1999/xhtml"
       xmlns:fb="http://ogp.me/ns/fb#">
 
@@ -44,10 +44,10 @@
     <!-- google analytics -->
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      
+
       ga('create', 'UA-52344756-3', 'auto');
       ga('send', 'pageview');
-      
+
     </script>
 
 </head>
@@ -73,27 +73,19 @@
                     <li>
                         <a class="page-scroll" href="#about">About</a>
                     </li>
-		    <li>
-                        <a class="page-scroll" href="#who">Who We Are</a>
-                    </li>
-		    <li>
+		                  <li>
                         <a class="page-scroll" href="http://www.daysofcode.nl/sponsors">Sponsors</a>
                     </li>
-		    <li>
-                        <a class="page-scroll" href="http://www.daysofcode.nl/mentoring">Mentors</a>
-                    </li>
-                    <!--li>
-                        <a class="page-scroll" href="#services">Services</a>
+		                  <li>
+                        <a class="page-scroll" href="http://www.daysofcode.nl/volunteers">Volunteers</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#portfolio">Portfolio</a>
-                    </li-->
-                    <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
-                    </li>
-		    <li>
-		      <a class="page-scroll red" href="http://goo.gl/forms/BzbbscHqUCDmwymF3" target="top">Sign Up!</a>
-		    </li>
+                      <a class="page-scroll" href="http://www.daysofcode.nl/materials">Materials</a>
+                  </li>
+
+          		    <li>
+          		      <a class="page-scroll red" href="http://goo.gl/forms/BzbbscHqUCDmwymF3" target="top">Apply now!</a>
+          		    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -107,7 +99,7 @@
                 <h1>Days of Code</h1>
                 <hr>
 		<p>coding is freedom.</p>
-                <a href="http://goo.gl/forms/BzbbscHqUCDmwymF3" class="btn btn-primary btn-xl page-scroll" target="top">Sign Up</a>
+                <a href="http://goo.gl/forms/BzbbscHqUCDmwymF3" class="btn btn-primary btn-xl page-scroll" target="top">Apply now</a>
             </div>
         </div>
     </header>
@@ -116,27 +108,60 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">10 Days of Code, Rotterdam, 15-24th July 2016</h2>
+                    <h2 class="section-heading">10 Days of Code, Rotterdam, July 2017</h2>
                     <hr class="light">
-                    
+
 		    <h3>What</h3>
-		    <p class="text-faded">Have you ever thought about building your own website or starting your own company? Are you considering a change in career and do you think coding could be something for you? Then Days of Code is the place to be!</p>
-		    <p class="text-faded">10 Days of Code 2016 is a free coding event held in Rotterdam city center. During the event we will provide you with a place to set up (comfortable indoor) camp, a mentor, free food, coffee and internet - all the things you need to build something great!  Applications will close 31st May.</p>
+		    <p class="text-faded">Days of code is a free ten day event during which
+          you will learn to code by building your own project. It doesn't matter
+          if you are a complete beginner or experienced programmer - anyone is
+          welcome. The program is fulltime inclusing three evening programs.
+          See an example of last year's program
+          <a href="http://www.daysofcode.nl/docs/program.pdf" target="top">here</a>.
+		      The event takes place in Rotterdam, the Netherlands. During the event
+          we will provide you with a mentor, free food, coffee and internet -
+          all the things you need to build something great! We will ask you to
+          contribute by summarizing what you've learned each day. On the last
+          day we will consolidate this information into our syllabus. This way
+          everyone can benefit from your learning :)</p>
 
 		    <h3>Why</h3>
-		    <p class="text-faded">Attending the event will give you the opportunity to learn something new and build something great. You will meet other amazing and inspiring programmers. Who knows, you might even finish your pet project that's been on the shelf for the past couple of years ;) Space is limited, so sign up now!</p>
+		    <p class="text-faded">Being able to code is a crucial skill in the 21st
+          centuary. The amount of vacancies within the IT sector are steadily
+          increasing in the Netherlands. So whether you are unemployed, bored
+          at work or thinking of starting your own company, learning to code is
+          the way to go! </p>
+
+        <p class="text-faded">  If you are a <strong> complete beginner</strong>, it
+          can be overwhelming to figure out where to start. At Days of Code we
+          help you by guiding you through the sea of training material available
+          online. Many <strong>experienced programmers </strong>
+          struggle to find the time to learn something new or finish their pet
+          project. Days of code gives you time and space to enable you to do this.</p>
+
 
 		    <h3>Who You Are</h3>
-		    <p class="text-faded">Anyone can attend. Whether you are a complete beginner who would like to learn coding from scratch or an expert who would like to launch an exciting new project, everyone is welcome. We believe that a diverse group of participants will foster a creative and inspiring learning atmosphere. We are looking for people with a lot of enthusiasm and dedication who are willing to try something new.</p>
+		    <p class="text-faded">Anyone can learn to code. Whether you are a <strong> complete
+          beginner </strong> or an <strong> expert </strong>, everyone is welcome.
+          All we ask is that you contribute by allowing other to learn from your
+          learning. We believe that a diverse group of participants will foster a creative
+          and inspiring learning atmosphere. We are looking for people with a
+          lot of enthusiasm and dedication who are willing to try something new.</p>
 
 		    <h3>Applications</h3>
-		    <p class="text-faded">All applicants will have a short virtual interview before being allowed to attend.</p>
+		    <p class="text-faded">Our application process is simple: please tell
+          us a little more about yourself by filling out our online application form.
+          We will then plan a short virtual interview with you and notify you at
+          least one month before the event if you are accepted. If you are a
+          complete beginner, we might ask you to do some pre-work (around ten hours)
+          before participating.
+        </p>
 
 
-                    
-		    <a href="http://goo.gl/forms/BzbbscHqUCDmwymF3" class="btn btn-default btn-xl" target="top">Sign Up!</a>
-                
-		    <p>Here is more information about the <a href="http://www.daysofcode.nl/class2016.html">participants and speakers at the 2016 event</a>.</p>
+
+		    <a href="http://goo.gl/forms/BzbbscHqUCDmwymF3" class="btn btn-default btn-xl" target="top">Apply now!</a>
+
+		    <p class="text-faded">Here is more information about the <a href="http://www.daysofcode.nl/class2016.html">participants and speakers at the 2016 event</a>.</p>
 
 		</div>
             </div>
@@ -149,9 +174,13 @@
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2">
             <h3><span class="tape">Who We Are</span></h3>
-           
 
-	    <p class="text-faded">Stichting Days of Code is a foundation dedicated to providing free coding education. Our events are focused around self-directed learning. We believe that if we provide an inspiring and nurturing environment, you will be able to thrive. All funding is arranged through donations. We believe that education wants to be free.</p>
+
+	    <p class="text-faded">Stichting Days of Code is a foundation dedicated to
+         providing free coding education. Our events are focused around self-
+         directed learning. We believe that if we provide an inspiring and
+         nurturing environment, you will be able to thrive. All funding is
+         arranged through donations. We believe that education wants to be free.</p>
 
 	    <p class="text-faded">It would not be possible to provide these events for free without the help of our amazing <a href="http://www.daysofcode.nl/sponsors"><i>sponsors</i></a>.  Would you like to know more about becomming a sponsor?  Please drop us an email at <a href="mailto:sponsor@daysofcode.nl">sponsor@daysofcode.nl</a> </p>
             <div class="row">
@@ -163,7 +192,7 @@
 		<p class="text-faded">I am originally from South Africa and have been living in Rotterdam for the past four years. During the day I work as a chemical engineer and in my free time I like to work on my pet project (in Ruby on Rails), hang out with friends and cook new and interesting recipes. I love technology and am passionate about education. The best part of my life is that I am able to share it with my tiny twins and the love of my life.</p>
 	      </div>
 	    </div>
-	    
+
             <div class="row">
 	      <div class="col-xs-8">
 		<h3><span class="tape">Abbey, Chairperson</span></h3>
@@ -178,13 +207,13 @@
               <div class="col-xs-4">
 		<img src="img/arjen.png" alt="arjen" width="90%" />
 	      </div>
-	      <div class="col-xs-8">	
+	      <div class="col-xs-8">
 		<h3><span class="tape">Arjen, Secretary</span></h3>
 		<p class="text-faded">I studied Computer Science at the University of Twente, but came back to my roots in Rotterdam to do my master thesis. After that I started working as a software developer, which I have been doing for the past nine years. Every day I am happy to go to work as a coder :). It's an honour that I can contribute in spreading the art of coding by being part of this organisation.  I got married last year and live together with my lovely wife and our nosy cat and daredevil Leya. In my spare time I like to play soccer, do yoga and hang out with friends.</p>
               </div>
 	    </div>
-	
-          
+
+
 	    <div class="row">
 	      <div class="col-xs-12">
 		<p class="text-faded small-pad">Stichting Days of Code RSIN: 856188815.  Statuten: <a href="http://www.daysofcode.nl/docs/statuten.pdf" target="top">statuten.pdf</a>.  We would like to thank @RobVis for the image of Rotterdam on the front page.</p>
@@ -201,7 +230,7 @@
     <aside class="bg-dark contact">
         <div class="container text-center">
             <div class="call-to-action">
-                <a href="http://goo.gl/forms/BzbbscHqUCDmwymF3" class="btn btn-default btn-xl action-button" target="top">sign up now</a>
+                <a href="http://goo.gl/forms/BzbbscHqUCDmwymF3" class="btn btn-default btn-xl action-button" target="top">apply now</a>
             </div>
         </div>
     </aside>
