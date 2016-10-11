@@ -583,6 +583,10 @@ fieldset[disabled] .btn-primary.active {
     padding: 15px 30px;
 }
 
+.btn-l {
+    padding: 10px 15px;
+}
+
 ::-moz-selection {
     text-shadow: none;
     color: #fff;
