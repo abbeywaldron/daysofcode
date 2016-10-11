@@ -153,6 +153,29 @@
     </div>
 
 
+    <div class="quote">
+      <section>
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-10 col-sm-offset-1">
+              <p><i>"I code every day of my life, but this felt different"</i> - Petra, Days of Code Rotterdam 2016</p>
+            </div>
+          </div>
+	</div>
+      </section>
+    </div>
+    
+
+    <aside class="bg-dark contact">
+      <div class="container text-center">
+        <div class="call-to-action">
+          <a href="http://www.daysofcode.nl/class2016.html" class="btn btn-default btn-l action-button" target="top">Past Events</a>
+          <a href="http://goo.gl/forms/BzbbscHqUCDmwymF3" class="btn btn-default btn-l action-button" target="top">Upcoming Events</a>
+          <a href="http://www.daysofcode.nl/materials" class="btn btn-default btn-l action-button" target="top">Materials</a>
+        </div>
+      </div>
+    </aside>
+    
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 
