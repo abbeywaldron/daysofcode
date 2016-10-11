@@ -18,6 +18,11 @@ body {
     color: red;
 }
 
+.tweet-image {
+	     width: 100%;
+	     height: inherit;
+}
+
 .small-pad {
 	   margin-top: 20px;
 

@@ -28,7 +28,7 @@ body {
 }
 
 .sponsor {
-	 padding-top: 100px;
+	// padding-top: 100px;
 }
 
 .sponsor a {
