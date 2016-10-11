@@ -99,16 +99,18 @@
                 <h1>Days of Code</h1>
                 <hr>
 		<p>coding is freedom.</p>
-                <a href="http://goo.gl/forms/BzbbscHqUCDmwymF3" class="btn btn-primary btn-xl page-scroll" target="top">Apply now</a>
+		<a href="http://www.daysofcode.nl/class2016.html" class="btn btn-primary btn-l page-scroll" target="top">Past Events</a>
+                <a href="http://goo.gl/forms/BzbbscHqUCDmwymF3" class="btn btn-primary btn-l page-scroll" target="top">Upcoming Events</a>
+		<a href="http://www.daysofcode.nl/materials" class="btn btn-primary btn-l page-scroll" target="top">Materials</a>
             </div>
         </div>
     </header>
 
-    <section class="bg-primary" id="about">
+    <section class="quote">
       <div class="container">
         <div class="row">
-	  <div class="span-8">
-	    <iframe src="https://www.youtube.com/embed/Y1El_9OssW4" frameborder="0" allowfullscreen=""></iframe>
+	  <div class="span-8 text-center">
+	    <iframe height="315" width="560" src="https://www.youtube.com/embed/Y1El_9OssW4" frameborder="0" allowfullscreen=""></iframe>
 	  </div>
 	</div>
       </div>
@@ -127,7 +129,7 @@
           if you are a complete beginner or experienced programmer - anyone is
           welcome. The program is fulltime inclusing three evening programs.
           See an example of last year's program
-          <a href="http://www.daysofcode.nl/docs/program.pdf" target="top">here</a>.
+          <a href="http://www.daysofcode.nl/docs/Program.pdf" target="top">here</a>.
 		      The event takes place in Rotterdam, the Netherlands. During the event
           we will provide you with a mentor, free food, coffee and internet -
           all the things you need to build something great! We will ask you to
@@ -177,6 +179,18 @@
             </div>
         </div>
     </section>
+
+    <div class="quote">
+      <section>
+	<div class="container">
+	  <div class="row">
+	    <div class="col-sm-10 col-sm-offset-1">
+	      <p><i>"I code every day of my life, but this felt different"</i> - Petra, Days of Code Rotterdam 2016</p>
+	    </div>
+	  </div>
+	</div>
+      </section>
+    </div>
 
     <div class="who-image">
     <section id="who" class="who">
@@ -240,7 +254,9 @@
     <aside class="bg-dark contact">
         <div class="container text-center">
             <div class="call-to-action">
-                <a href="http://goo.gl/forms/BzbbscHqUCDmwymF3" class="btn btn-default btn-xl action-button" target="top">apply now</a>
+	      <a href="http://www.daysofcode.nl/class2016.html" class="btn btn-default btn-l action-button" target="top">Past Events</a>
+              <a href="http://goo.gl/forms/BzbbscHqUCDmwymF3" class="btn btn-default btn-l action-button" target="top">Upcoming Events</a>
+              <a href="http://www.daysofcode.nl/materials" class="btn btn-default btn-l action-button" target="top">Materials</a>
             </div>
         </div>
     </aside>
