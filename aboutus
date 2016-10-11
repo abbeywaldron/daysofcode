@@ -166,16 +166,7 @@
     </div>
     
 
-    <aside class="bg-dark contact">
-      <div class="container text-center">
-        <div class="call-to-action">
-          <a href="http://www.daysofcode.nl/class2016.html" class="btn btn-default btn-l action-button" target="top">Past Events</a>
-          <a href="http://goo.gl/forms/BzbbscHqUCDmwymF3" class="btn btn-default btn-l action-button" target="top">Upcoming Events</a>
-          <a href="http://www.daysofcode.nl/materials" class="btn btn-default btn-l action-button" target="top">Materials</a>
-        </div>
-      </div>
-    </aside>
-    
+        
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 
