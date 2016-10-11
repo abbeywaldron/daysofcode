@@ -30,8 +30,12 @@ body {
      
 }
 
-.quote p {
+.quote p i {
        font-size: 36px;
+}
+
+.quote p {
+       font-size: 20px;
 }
 
 
